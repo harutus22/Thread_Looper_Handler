@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackgroundThreadExample</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="taska">TaskA</string>
+    <string name="taskb">taskB</string>
+</resources>
